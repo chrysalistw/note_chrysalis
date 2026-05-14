@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "圓周運動.md",
+                "file": "用歐拉公式證明和角公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "圓周運動"
+              "title": "用歐拉公式證明和角公式"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "cea8e8352c5ee5b1",
   "lastOpenFiles": [
-    "力學.md",
     "圓周運動.md",
+    "力學.md",
     "首頁.md",
     "婆羅米系文字.md",
     "微積分.md",
