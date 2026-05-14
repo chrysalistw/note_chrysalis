@@ -42,8 +42,8 @@
               "type": "markdown",
               "state": {
                 "file": "用歐拉公式證明和角公式.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "用歐拉公式證明和角公式"
