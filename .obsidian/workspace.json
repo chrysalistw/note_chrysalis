@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "首頁.md",
+                "file": "天城文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "首頁"
-            }
-          },
-          {
-            "id": "e2a07514239753eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "婆羅米系文字.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "婆羅米系文字"
-            }
-          },
-          {
-            "id": "cea8e8352c5ee5b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "用歐拉公式證明和角公式.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "用歐拉公式證明和角公式"
-            }
-          },
-          {
-            "id": "00f854abef2b58cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "用歐拉公式證明和角公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "用歐拉公式證明和角公式"
+              "title": "天城文"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,15 +183,17 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "cea8e8352c5ee5b1",
+  "active": "44d0bd5af0af16f2",
   "lastOpenFiles": [
-    "圓周運動.md",
-    "力學.md",
-    "首頁.md",
     "婆羅米系文字.md",
+    "天城文.md",
+    "泰文字母.md",
+    "首頁.md",
+    "圓周運動.md",
+    "用歐拉公式證明和角公式.md",
+    "力學.md",
     "微積分.md",
     "導數的運算法則.md",
-    "導數的定義.md",
-    "用歐拉公式證明和角公式.md"
+    "導數的定義.md"
   ]
 }
