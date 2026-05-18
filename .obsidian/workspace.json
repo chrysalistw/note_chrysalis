@@ -11,17 +11,38 @@
             "id": "44d0bd5af0af16f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "天城文.md",
-                "mode": "source",
-                "source": false
+                "file": "小篆/png/儿.png"
               },
-              "icon": "lucide-file",
-              "title": "天城文"
+              "icon": "lucide-image",
+              "title": "儿"
+            }
+          },
+          {
+            "id": "0e21641c4affecf9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "小篆/png/兀.png"
+              },
+              "icon": "lucide-image",
+              "title": "兀"
+            }
+          },
+          {
+            "id": "33f682d349dc5eba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +204,21 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "44d0bd5af0af16f2",
+  "active": "33f682d349dc5eba",
   "lastOpenFiles": [
-    "婆羅米系文字.md",
-    "天城文.md",
-    "泰文字母.md",
+    "小篆.md",
+    "小篆/元.md",
+    "小篆/png/元.png",
+    "小篆/png/兀.png",
+    "小篆/png/儿.png",
+    "未命名.md",
+    "小篆/png",
+    "小篆",
+    "英文詞根.md",
     "首頁.md",
+    "天城文.md",
+    "婆羅米系文字.md",
+    "泰文字母.md",
     "圓周運動.md",
     "用歐拉公式證明和角公式.md",
     "力學.md",
